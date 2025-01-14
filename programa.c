@@ -6,4 +6,4 @@ int main (void)
     printf("Agregamos un nuevo archivo llamado PROGRAMA");
 }
 
-//Vamos a Linea 1
+//Estamos en Linea2 
